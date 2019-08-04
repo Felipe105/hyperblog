@@ -8,4 +8,5 @@ git commit -m "guarda los cambios en el master"
 git show (puedo dejarlo asi o añadirle un nombre de archivo exacto
 esto para saver que se modifico)
 
-Hoy si dormi bien v:
+con git log (nombre para ver los commits realizados sobre el objeto)
+git diff (aca entramos el codigo del commit para diferenciar entre versiones)
