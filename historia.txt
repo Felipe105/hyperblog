@@ -1,7 +1,7 @@
-esta es mi hitoria
-ds
-a
-dsada
-tengo 19 años naci en colombia 
-
+git init (inicia el proyecto en la carpeta)
+git status (estado del proyecto)
+git add (añade los cambios del proyecto pero no en el master)
+git rm (nombre del archibo a borrar)
+git rm --cached (nombre del archibo a borrar chache(?)
+git commit -m "guarda los cambios en el master"
 
