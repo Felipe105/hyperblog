@@ -11,3 +11,4 @@ esto para saver que se modifico)
 con git log (nombre para ver los commits realizados sobre el objeto)
 git diff (aca entramos el codigo del commit para diferenciar entre versiones)
 uno y uno no siempre son 2 y 3 + 3 no siemre es 1
+git log --stat (para ver un par de detalles no siempre utiles pero no ignorables)
