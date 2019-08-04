@@ -7,3 +7,5 @@ git commit -m "guarda los cambios en el master"
 
 git show (puedo dejarlo asi o añadirle un nombre de archivo exacto
 esto para saver que se modifico)
+
+Hoy si dormi bien v:
