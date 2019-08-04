@@ -1,0 +1,35 @@
+[33mcommit 4ae51f5d800bc397455072afc518d3750262e7e1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Aoi <efeliper34@gmail.com>
+Date:   Sun Aug 4 13:40:13 2019 -0500
+
+    ver historial y diferenciar entre versiones
+
+[33mcommit 58c9c982d6e80b6f0308ac61283628827b8f1a86[m
+Author: Aoi <efeliper34@gmail.com>
+Date:   Sun Aug 4 13:32:48 2019 -0500
+
+    em mi sueño (?
+
+[33mcommit b25b836471fbea5318f3bbe2cbcf4a911e0ed60a[m
+Author: Aoi <efeliper34@gmail.com>
+Date:   Sun Aug 4 13:26:22 2019 -0500
+
+    aca donde usa solo commit pero no me funciona pero bueno añadi un comando mas
+
+[33mcommit 17423df7a34a8c0681651c178715040f847caf06[m
+Author: Aoi <efeliper34@gmail.com>
+Date:   Sun Aug 4 13:20:10 2019 -0500
+
+    Inicios de git
+
+[33mcommit 193072ca6589dbc57adc727c8229a690a46e4f57[m
+Author: Aoi <efeliper34@gmail.com>
+Date:   Sun Aug 4 13:15:28 2019 -0500
+
+    cambios mas a detalle edad nacimiento
+
+[33mcommit 750ff5e9805ea526693c4ad6c855636419529050[m
+Author: Aoi <efeliper34@gmail.com>
+Date:   Sun Aug 4 13:09:27 2019 -0500
+
+    Este el primer comit de este archivo
