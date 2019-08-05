@@ -15,4 +15,4 @@ git log --stat (para ver un par de detalles no siempre utiles pero no ignorables
 git reset (id del commit) -- hard /soft (uno borra todo pero todo)
  git checkout + ID del commit nos permite viajar en el tiempo
  git commit -am "Hace auomaticamente ael añadido de los cambios mas no añade archivos"
- 
+ prueba vim
