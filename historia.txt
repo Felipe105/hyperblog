@@ -20,3 +20,5 @@ git reset (id del commit) -- hard /soft (uno borra todo pero todo)
  git checkout (nombre de la rama)
  git merge (nombre de rama secundaria que se añadira al master)
  Siempre se debe hacer en el master
+ git remote add (link de github) añade esto a la pagina de github
+ git push origin (master) enviamos nuestro repositorio local a gitHub
