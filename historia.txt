@@ -18,3 +18,5 @@ git reset (id del commit) -- hard /soft (uno borra todo pero todo)
  prueba vim
  git branch (nombre x) creara otra rama  a la cual cambiaremos a con
  git checkout (nombre de la rama)
+ git merge (nombre de rama secundaria que se añadira al master)
+ Siempre se debe hacer en el master
