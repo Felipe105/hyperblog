@@ -16,3 +16,5 @@ git reset (id del commit) -- hard /soft (uno borra todo pero todo)
  git checkout + ID del commit nos permite viajar en el tiempo
  git commit -am "Hace auomaticamente ael añadido de los cambios mas no añade archivos"
  prueba vim
+ git branch (nombre x) creara otra rama  a la cual cambiaremos a con
+ git checkout (nombre de la rama)
