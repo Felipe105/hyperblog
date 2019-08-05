@@ -13,12 +13,15 @@ git diff (aca entramos el codigo del commit para diferenciar entre versiones)
 uno y uno no siempre son 2 y 3 + 3 no siemre es 1
 git log --stat (para ver un par de detalles no siempre utiles pero no ignorables)
 git reset (id del commit) -- hard /soft (uno borra todo pero todo)
- git checkout + ID del commit nos permite viajar en el tiempo
- git commit -am "Hace auomaticamente ael añadido de los cambios mas no añade archivos"
- prueba vim
- git branch (nombre x) creara otra rama  a la cual cambiaremos a con
- git checkout (nombre de la rama)
- git merge (nombre de rama secundaria que se añadira al master)
- Siempre se debe hacer en el master
- git remote add (link de github) añade esto a la pagina de github
- git push origin (master) enviamos nuestro repositorio local a gitHub
+git checkout + ID del commit nos permite viajar en el tiempo
+git commit -am "Hace auomaticamente ael añadido de los cambios mas no añade archivos"
+prueba vim
+git branch (nombre x) creara otra rama  a la cual cambiaremos a con
+git checkout (nombre de la rama)
+git merge (nombre de rama secundaria que se añadira al master)
+Siempre se debe hacer en el master
+git remote add (link de github) añade esto a la pagina de github
+git push origin (master) enviamos nuestro repositorio local a gitHub
+git pull origin master (para traer cosas del remoto)
+git pull origin master --allow-unrelate-histories (por si no me perimte traer los archivos de gitHub por 
+los commit indiferente)
