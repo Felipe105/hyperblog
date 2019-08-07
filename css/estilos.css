@@ -5,14 +5,28 @@ body{
     font-size: 16px;
     margin: 0;
     padding: 0;
+    background: #333;
+    color: #DDD
 }
 #cabecera{
-    background: rgb(43, 43, 165);
+    background: #3333aa;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     margin: 0;  
-    padding: 0.5em;
+    padding:1em;
     font-weight: bold;
+    align-items: center;
+}
+
+#cabecera #logo{
+    display: inline-block;
+    width: 50px;
+    margin: 0;
+}
+#cabecera #logo img{
+    display: inline-block;
+    width: 30px;
+    margin: 0;
 }
 
 #cabecera #tagline{
