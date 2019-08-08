@@ -31,4 +31,4 @@ Listar los tags de nuestro repositorio local: git tag o git show-refs --tags.
 Publicar un tag en el repositorio remoto: git push origin --tags.
 Borrar un tag del repositorio remoto: git tag -d nombre-del-tag y git push origin :refs/tags/nombre-del-tag.
 git clone (url de lo que sea que vallamos a clonar) para extraer un proyecto de gitHub
-
+git remote add (upstream) agregar para hacer pull del proyecto de otra persona
